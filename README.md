@@ -1,4 +1,3 @@
-# Digital-Filters
 
 # Digital Filters
 Exactly. ✅
